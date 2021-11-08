@@ -14,7 +14,7 @@
 	<artifactId>inercia-tcc</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>inercia-tcc</name>
-	<description>API de RM</description>
+	<description>API de inercia-tcc</description>
 
 	<properties>
 		<java.version>11</java.version>
