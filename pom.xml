@@ -11,9 +11,9 @@
 	</parent>
 
 	<groupId>com.erichiroshi</groupId>
-	<artifactId>resistencia-materiais</artifactId>
+	<artifactId>inercia-tcc</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>resistencia-materiais</name>
+	<name>inercia-tcc</name>
 	<description>API de RM</description>
 
 	<properties>
